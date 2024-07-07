@@ -56,17 +56,17 @@ This project includes three management systems: Library Management System, Stude
 - Bootstrap (included in templates)
 
 ### Installation
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/management-systems-project.git
-2. Change to the project directory:
+2. **Change to the project directory:**
    ```bash
    cd management-systems-project
-3. Create a virtual environment:
+3. **Create a virtual environment:**
 ```bash
     python -m venv venv
 ```
-4. Activate the virtual environment:
+4. **Activate the virtual environment:**
 On Windows:
 ```bash
 venv\Scripts\activate
@@ -75,7 +75,7 @@ On macOS/Linux:
 ```bash
 source venv/bin/activate
 ```
-5. Install the required packages:
+5. **Install the required packages:**
 ```bash
 pip install -r requirements.txt    
 ```
