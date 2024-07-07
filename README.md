@@ -80,19 +80,14 @@ source venv/bin/activate
 pip install -r requirements.txt    
 ```
 ## Running the Application
-1. Set the FLASK_APP environment variable:
-```bash
-export FLASK_APP=app.py
-```
-On Windows:
-```bash
-set FLASK_APP=app.py
-```
-2. Run the Flask development server:
-```bash
-flask run
-Open your web browser and go to http://127.0.0.1:5000/. 
-```
+1. **Run the Application:**
+    ```bash
+    python app.py
+    ```
+
+2. **Access the Application:**
+    - Open your web browser and navigate to `http://127.0.0.1:5000/`
+
 ##Project Structure
 ``` plain 
 management-systems-project/
