@@ -65,30 +65,34 @@ This project includes three management systems: Library Management System, Stude
 3. Create a virtual environment:
 ```bash
     python -m venv venv
-    
+```
 4. Activate the virtual environment:
 On Windows:
 ```bash
 venv\Scripts\activate
+```
 On macOS/Linux:
 ```bash
 source venv/bin/activate
+```
 5. Install the required packages:
 ```bash
 pip install -r requirements.txt    
-
+```
 ## Running the Application
 1. Set the FLASK_APP environment variable:
 ```bash
 export FLASK_APP=app.py
+```
 On Windows:
 ```bash
 set FLASK_APP=app.py
+```
 2. Run the Flask development server:
 ```bash
 flask run
 Open your web browser and go to http://127.0.0.1:5000/. 
-
+```
 ##Project Structure
 ``` plain 
 management-systems-project/
