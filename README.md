@@ -88,7 +88,7 @@ pip install -r requirements.txt
 2. **Access the Application:**
     - Open your web browser and navigate to `http://127.0.0.1:5000/`
 
-##Project Structure
+## Project Structure
 ``` plain 
 management-systems-project/
 │
@@ -122,11 +122,11 @@ management-systems-project/
 - Add, update, and view books.
 - Responsive design using Bootstrap.
 
-###Student Management System
+### Student Management System
 - Add, update, and view students.
 - Responsive design using Bootstrap.
 
-###Bank Management System
+### Bank Management System
 - Add, update, and view bank accounts.
 - Responsive design using Bootstrap.
 
